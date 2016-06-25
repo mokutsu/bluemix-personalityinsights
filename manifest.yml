@@ -5,7 +5,7 @@ declared-services:
     plan: tiered
 
 applications:
-- name: personality-insights-livedemo
+- name: 160615-persona-insights
   command: npm start
   path: .
   memory: 512M
